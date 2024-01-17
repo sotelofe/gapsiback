@@ -1,0 +1,30 @@
+{
+	"proveedores": [
+		{
+			"nombre": "Omar",
+			"razonSocial":"razón 1",
+			"direccion":"México"
+		},
+		{
+			"nombre": "Felix",
+			"razonSocial":"razón 2",
+			"direccion":"Guerrero"
+		}
+		,
+		{
+			"nombre": "Silvia",
+			"razonSocial":"razón 3",
+			"direccion":"Aguacalientes"
+		},
+		{
+			"nombre": "Sofia",
+			"razonSocial":"razón 4",
+			"direccion":"Queretaro"
+		},
+		{
+			"nombre": "Ximena",
+			"razonSocial":"razón 5",
+			"direccion":"Cuernavaca"
+		}
+	]
+}
